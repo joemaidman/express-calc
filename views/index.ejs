@@ -1,0 +1,19 @@
+<% include partials/header %>
+<h3>Express Calculator</h3>
+<form method="POST" action="/calculate">
+  <label>First</label>
+    <br>
+  <input type="text" name="firstNum">
+  <br>
+  <label>Second</label>
+    <br>
+  <input type="text" name="secondNum">
+  <br>
+  <br>
+  <input type="Submit" value="Calculate">
+</form>
+
+<% if(typeof answer !== 'undefined') { %>
+<h3>Answer: <%= answer %></h3>
+<% } %>
+<% include partials/footer %>
