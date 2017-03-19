@@ -11,4 +11,4 @@ A simple node.js Express web application to sum two numbers together.
 
 ## Running
 - Run `nodemon`
-- Visit http://localhost:3000/
+- Visit http://localhost:3000/ 
