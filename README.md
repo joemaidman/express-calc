@@ -2,7 +2,7 @@ Express Calc
 =======
 A simple node.js Express web application to sum two numbers together.
 
-![calc](https://github.com/joemaidman/express-calc/blob/master/screenshots/calc.png)
+![calc](https://github.com/joemaidman/express-calc/blob/master/calc.png)
 
 ## Installation
 - Clone the repo
@@ -11,4 +11,4 @@ A simple node.js Express web application to sum two numbers together.
 
 ## Running
 - Run `nodemon`
-- Visit http://localhost:3000/ 
+- Visit http://localhost:3000/
